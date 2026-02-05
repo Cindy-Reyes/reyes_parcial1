@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reyes_parcial1/static/css/main.6641abbd.css",
-    "main.js": "/reyes_parcial1/static/js/main.e0cccab1.js",
-    "static/js/453.cff78661.chunk.js": "/reyes_parcial1/static/js/453.cff78661.chunk.js",
-    "static/media/profile.jpeg": "/reyes_parcial1/static/media/profile.734cf3def97b00a6be57.jpeg",
-    "index.html": "/reyes_parcial1/index.html",
-    "main.6641abbd.css.map": "/reyes_parcial1/static/css/main.6641abbd.css.map",
-    "main.e0cccab1.js.map": "/reyes_parcial1/static/js/main.e0cccab1.js.map",
-    "453.cff78661.chunk.js.map": "/reyes_parcial1/static/js/453.cff78661.chunk.js.map"
+    "main.css": "/Cindy-Reyes/evaluacion_parcial1/static/css/main.6641abbd.css",
+    "main.js": "/Cindy-Reyes/evaluacion_parcial1/static/js/main.4f029338.js",
+    "static/js/453.cff78661.chunk.js": "/Cindy-Reyes/evaluacion_parcial1/static/js/453.cff78661.chunk.js",
+    "static/media/profile.jpeg": "/Cindy-Reyes/evaluacion_parcial1/static/media/profile.734cf3def97b00a6be57.jpeg",
+    "index.html": "/Cindy-Reyes/evaluacion_parcial1/index.html",
+    "main.6641abbd.css.map": "/Cindy-Reyes/evaluacion_parcial1/static/css/main.6641abbd.css.map",
+    "main.4f029338.js.map": "/Cindy-Reyes/evaluacion_parcial1/static/js/main.4f029338.js.map",
+    "453.cff78661.chunk.js.map": "/Cindy-Reyes/evaluacion_parcial1/static/js/453.cff78661.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6641abbd.css",
-    "static/js/main.e0cccab1.js"
+    "static/js/main.4f029338.js"
   ]
 }
